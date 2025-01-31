@@ -8,7 +8,7 @@
 
 **Turma:** DPCN07 - JAN/2025
 
-[Veja os prints do laboratório](#prints)
+## [Veja os prints do laboratório](#prints) 🔥
 
 ---
 
