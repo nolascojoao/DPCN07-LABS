@@ -8,6 +8,8 @@
 
 **Turma:** DPCN07 - JAN/2025
 
+[Veja os prints do laboratório](#prints)
+
 ---
 
 ## Objetivo  
@@ -202,7 +204,18 @@ Após concluir as tarefas, você pode excluir os recursos criados neste laborat�
 
 ---
 
+### Prints
+
+![ping](https://github.com/user-attachments/assets/c78a449b-8539-4670-816e-a8ab54ab3524)
+
+![transfer-file](https://github.com/user-attachments/assets/7ab320e4-d2c7-424e-b665-965ec5f67efb)
+
+![database](https://github.com/user-attachments/assets/fd68ec15-2480-4347-a891-052b1925e0f9)
+
+---
+
 Aqui vai uma sugestão:
 
 
-- [Laboratório prático: Snapshots de EBS com AWS CLI e Python](https://github.com/nolascojoao/aws-ebs-snapshot-lab)
+- [Laboratório prático: AWS Bastion Server Lab](https://github.com/nolascojoao/aws-bastion-server-lab)
+- [Laboratório prático: AWS VPC Introduction Lab](https://github.com/nolascojoao/aws-vpc-lab)
