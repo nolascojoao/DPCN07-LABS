@@ -158,3 +158,19 @@ Parabéns! Você aprendeu conceitos fundamentais do Amazon S3:
 ---
 
 ## Prints
+
+![1](https://github.com/user-attachments/assets/970db159-b386-4263-8271-283e66c008b3)
+
+![2](https://github.com/user-attachments/assets/d334565b-41e6-4af9-b1e0-d9967ac1fbad)
+
+![3](https://github.com/user-attachments/assets/f6e4212f-d1b5-4aea-b672-328fccbbe000)
+
+![4](https://github.com/user-attachments/assets/a4f55533-a1a3-4c18-8043-aa1d791d126a)
+
+![5](https://github.com/user-attachments/assets/94b0bcfd-a50b-4a73-91ef-8eba51a970df)
+
+![6](https://github.com/user-attachments/assets/8bcd04fd-c434-476c-8638-2d332e843f2b)
+
+![7](https://github.com/user-attachments/assets/f756b5c2-2b78-42b7-b0c4-7dc1812a00db)
+
+![8](https://github.com/user-attachments/assets/f8e7ca0a-d0b2-48a5-9c1c-857264e221a1)
