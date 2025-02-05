@@ -8,6 +8,8 @@
 
 **Turma:** DPCN07 - JAN/2025
 
+## [Veja os prints do laboratório](#prints) 🔥
+
 ---
 
 ## Objetivo  
@@ -125,7 +127,7 @@ Criar snapshot
 
 ---
 
-### Prints:
+### Prints
 
 ![1-ec2-launch](https://github.com/user-attachments/assets/23db8d93-a023-4821-a182-58b5818a8c46)
 
