@@ -127,3 +127,9 @@
 ![p8](https://github.com/user-attachments/assets/1e830669-2892-4fca-b703-dbc2910105d4)
 
 ![p9](https://github.com/user-attachments/assets/da403579-3099-4771-88ac-5bc41225ac57)
+
+---
+
+- Laboratórios relacionados
+	- [Monitoramento de NGINX com Python + SNS](https://github.com/nolascojoao/monitoramento-nginx-com-python-sns)
+	- [AWS SNS Image Notification Lab](https://github.com/nolascojoao/aws-sns-lab)
