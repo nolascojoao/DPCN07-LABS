@@ -5,8 +5,9 @@
 
 **Instituição:** [Escola da Nuvem](https://escoladanuvem.org/)
 
-
 **Turma:** DPCN07 - JAN/2025
+
+**Professora:** [Josely Castro](https://www.linkedin.com/in/joselybcastro)
 
 ## [Veja os prints do laboratório](#prints) 🔥
 
