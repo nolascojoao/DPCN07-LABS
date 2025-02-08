@@ -8,7 +8,7 @@
 
 **Turma:** DPCN07 - JAN/2025
 
-## [Instruções Passo a Passo para o Lab 5](LAB05%20-%20SQS%20e%20SNS/Lab%205.%20Integração%20e%20Mensageria%20com%20SQS%20e%20SNS%20-%20Passo%20a%20Passo%20Detalhado.pdf) 📜
+## [Instruções Passo a Passo para o Lab 5](./Lab%205.%20Integração%20e%20Mensageria%20com%20SQS%20e%20SNS%20-%20Passo%20a%20Passo%20Detalhado.pdf) 📜
 ## [Policies JSON](#policies-json) 📑
 ## [Prints do Lab](#prints) 🔥
 
